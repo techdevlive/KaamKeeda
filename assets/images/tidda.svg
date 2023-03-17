@@ -1,0 +1,14 @@
+<svg width="71" height="104" viewBox="0 0 71 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="70.2627" y1="81.9254" x2="36.2627" y2="102.925" stroke="black"/>
+<line x1="36.7481" y1="102.932" x2="0.748063" y2="81.9319" stroke="black"/>
+<line x1="1.54671" y1="82.289" x2="28.5467" y2="24.289" stroke="black"/>
+<rect x="27" y="13.5" width="16" height="7" fill="black"/>
+<path d="M28.5 10.5C27.9302 3.6916 25.1011 1.67961 16 1" stroke="black"/>
+<path d="M41.5 10.5C42.9079 4.26323 45.53 2.17872 53.5 1" stroke="black"/>
+<line x1="42.4503" y1="24.2826" x2="70.4503" y2="82.2826" stroke="black"/>
+<line x1="28.3497" y1="23.8699" x2="42.7497" y2="23.8699" stroke="black"/>
+<path d="M28.8558 23.5L12.2559 82.3035" stroke="black"/>
+<line y1="-0.5" x2="31.4316" y2="-0.5" transform="matrix(0.778103 0.628137 -0.645582 0.763691 12 82.3699)" stroke="black"/>
+<line y1="-0.5" x2="61.5" y2="-0.5" transform="matrix(0.298012 0.954562 -0.958317 0.285707 41.6761 24.3699)" stroke="black"/>
+<line y1="-0.5" x2="30.9272" y2="-0.5" transform="matrix(-0.780429 0.625244 -0.642718 -0.766103 60.0957 82.3699)" stroke="black"/>
+</svg>
